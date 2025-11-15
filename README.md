@@ -23,6 +23,7 @@ Requirements
 ## Step 3: Access Splunk Web Interface
 - Open a web browser and go to: `http://<your-server-ip>:8000`
 - Log in with the admin credentials created earlier.
+- ![image](https://github.com/NATTOMR/images/blob/main/kali.png)
 ## Conclusion
 ✅ Successfully installed Splunk on an Ubuntu machine.
 ✅ Configured Splunk as a service and enabled auto-start.
